@@ -1,4 +1,4 @@
-<img width="920" alt="deskoooo" border-radius="100px;" src="https://github.com/user-attachments/assets/0f96d603-81af-468b-a479-2096af43ae28" />
+<img width="920" alt="deskoooo" src="https://github.com/user-attachments/assets/0f96d603-81af-468b-a479-2096af43ae28" style="border-radius: 10px;" />
 
 👨‍💻 About Me
 
