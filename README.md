@@ -5,11 +5,11 @@ Junior programmer with hands-on experience in system-level development and web p
 Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to problems
 
 🌟 Interests <br/>
-System programming (C, Unix)
-Open-source development
-React, Docker
-C++, Python, Linux
-HTML, CSS
+System programming (C, Unix),
+Open-source development,
+React, Docker,
+C++, Python, Linux,
+HTML, CSS,
 Exploring AI and data science
 
 🔗 Links <br/>
