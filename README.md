@@ -6,6 +6,7 @@ Junior programmer with a Master's degree in Philosophy, currently studying at 42
 Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to complex problems
 
 🌟 Interests
+
 System programming (C, Unix)
 Open-source development
 React, Docker
@@ -14,4 +15,5 @@ HTML, CSS
 Exploring AI and data science
 
 🔗 Links
+
 Email: schettinitobia@gmail.com
