@@ -1,7 +1,6 @@
 <img width="920" height="164" alt="colors" src="https://github.com/user-attachments/assets/fd64f639-3a18-45ec-8001-b1debf94e3f6" />
 
-👨‍💻 About Me
-
+👨‍💻 About Me <br/>
 Junior programmer with a Master's degree in Philosophy, currently studying at 42 School. <br/>
 Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to problems
 
