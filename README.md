@@ -13,4 +13,5 @@ HTML, CSS,
 Exploring AI and data science
 
 🔗 Links <br/>
+LinkedIn: https://www.linkedin.com/in/tobia-schettini-46a7231b8/
 Email: schettinitobia@gmail.com
