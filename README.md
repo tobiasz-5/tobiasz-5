@@ -1,4 +1,4 @@
-<img width="316" alt="colors" src="https://github.com/user-attachments/assets/fd64f639-3a18-45ec-8001-b1debf94e3f6" />
+<img width="920" alt="colors" src="https://github.com/user-attachments/assets/fd64f639-3a18-45ec-8001-b1debf94e3f6" />
 
 👨‍💻 About Me
 
