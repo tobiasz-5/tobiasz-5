@@ -12,6 +12,6 @@ Exploring AI and data science
 
 🔗 Links
 
-LinkedIn: https://www.linkedin.com/in/tobiasz
+LinkedIn: =
 
-Email: tobiasz@example.com
+Email: schettinitobia@gmail.com
