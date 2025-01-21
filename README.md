@@ -1,11 +1,10 @@
 <img width="920" height="242" alt="colors" src="https://github.com/user-attachments/assets/fd64f639-3a18-45ec-8001-b1debf94e3f6" />
 
 👨‍💻 About Me
-
-Junior programmer with a Master's degree in Philosophy, currently studying at 42 School. Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to complex problems
+Junior programmer with a Master's degree in Philosophy, currently studying at 42 School.
+Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to complex problems
 
 🌟 Interests
-
 System programming (C, Unix)
 Open-source development
 React, Docker
@@ -14,5 +13,4 @@ HTML, CSS
 Exploring AI and data science
 
 🔗 Links
-
 Email: schettinitobia@gmail.com
