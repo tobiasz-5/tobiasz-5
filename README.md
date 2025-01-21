@@ -1,5 +1,4 @@
-![desk](https://github.com/user-attachments/assets/a2035084-53db-48b2-91b4-4ed5aedd5ac1)
-
+<img width="484" alt="desko" src="https://github.com/user-attachments/assets/1bbbb820-f7e6-4227-9431-1a1c6bb8f65b" />
 👨‍💻 About Me
 
 Junior programmer with a Master's degree in Philosophy, currently studying at 42 School. Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to complex problems
