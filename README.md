@@ -1,4 +1,5 @@
 👨‍💻 About Me
+
 Junior programmer with a Master's degree in Philosophy, currently studying at 42 School. Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to complex problems
 
 🌟 Interests
