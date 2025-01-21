@@ -13,6 +13,4 @@ Exploring AI and data science
 
 🔗 Links
 
-LinkedIn: =
-
 Email: schettinitobia@gmail.com
