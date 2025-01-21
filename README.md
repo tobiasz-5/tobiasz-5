@@ -13,4 +13,5 @@ Exploring AI and data science
 🔗 Links
 
 LinkedIn: https://www.linkedin.com/in/tobiasz
+
 Email: tobiasz@example.com
