@@ -12,6 +12,12 @@ C++, Python, Linux,
 HTML, CSS,
 Exploring AI and data science
 
+## 🌐 Projects
+- [osteriacaorlotta-firenze.it](https://www.osteriacaorlotta-firenze.it)
+- [spazioaiciompi.com](https://spazioaiciompi.com)
+
+> Projects built with React and Next.js, deployed on Vercel.
+
 🔗 Links <br/>
 LinkedIn: https://www.linkedin.com/in/tobia-schettini-46a7231b8/ <br/>
 Email: schettinitobia@gmail.com
