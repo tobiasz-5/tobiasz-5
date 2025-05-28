@@ -19,6 +19,11 @@ Exploring AI and data science
 
 > Projects built with React and Next.js, deployed on Vercel.
 
+### 🤝 In collaborazione con DotFlorence Web Agency:
+- [cookwithsilvia.com](https://cookwithsilvia.com)
+
+>  Projects built with Wordpress
+
 🔗 Links <br/>
 LinkedIn: https://www.linkedin.com/in/tobia-schettini-46a7231b8/ <br/>
 Email: schettinitobia@gmail.com
