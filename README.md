@@ -12,9 +12,10 @@ C++, Python, Linux,
 HTML, CSS,
 Exploring AI and data science
 
-## 🌐 Projects
+## 🌐 Projects & Websites
 - [osteriacaorlotta-firenze.it](https://www.osteriacaorlotta-firenze.it)
 - [spazioaiciompi.com](https://spazioaiciompi.com)
+- [ts-developer.vercel.app](https://ts-developer.vercel.app)
 
 > Projects built with React and Next.js, deployed on Vercel.
 
