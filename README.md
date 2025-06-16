@@ -1,18 +1,15 @@
 <img width="920" height="164" alt="colors" src="https://github.com/user-attachments/assets/fd64f639-3a18-45ec-8001-b1debf94e3f6" />
 
 👨‍💻 About Me <br/>
-Junior programmer with hands-on experience in system-level development and web projects. Currently studying at 42 School and holding a master's degree in philosophy. <br/>
-Passionate about solving problems with clean and efficient code, leveraging my diverse background to find creative solutions to problems
+Junior programmer with hands-on experience in web projects. Currently studying at 42 School and holding a master's degree in philosophy. <br/>
 
 🌟 Interests <br/>
-System programming (C, Unix),
-Open-source development,
-React, Docker,
-C++, Python, Linux,
-HTML, CSS,
-Exploring AI and data science
+C, React, Next.js, Typescript,
+C++, Bash,
+HTML, CSS
 
 ## 🌐 Projects & Websites
+- [chioscoiltempio.com](https://www.chioscoiltempio.com)
 - [osteriacaorlotta-firenze.it](https://www.osteriacaorlotta-firenze.it)
 - [spazioaiciompi.com](https://spazioaiciompi.com)
 - [ts-developer.vercel.app](https://ts-developer.vercel.app)
