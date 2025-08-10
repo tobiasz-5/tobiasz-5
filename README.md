@@ -12,6 +12,7 @@ HTML, CSS
 - [chioscoiltempio.com](https://www.chioscoiltempio.com)
 - [osteriacaorlotta-firenze.it](https://www.osteriacaorlotta-firenze.it)
 - [spazioaiciompi.com](https://spazioaiciompi.com)
+- [edilcaianiello.com](https://edilcaianiello.com)
 - [ts-developer.vercel.app](https://ts-developer.vercel.app)
 
 > Projects built with React and Next.js, deployed on Vercel.
